@@ -1,5 +1,5 @@
 <h1 align="left">Hej 👋</h1>
-Zapraszam cię na moją fanowską reaktywację serwera Play Your Life!
+<center>Zapraszam cię na moją fanowską reaktywację serwera Play Your Life!</center>
 
 ###
 
